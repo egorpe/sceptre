@@ -7,7 +7,7 @@ ENV JP_VERSION=0.1.3
 
 RUN yum -y update \
     && yum -y install \
-        gettext
+        gettext \
         python3 \
         unzip \
         zip \
