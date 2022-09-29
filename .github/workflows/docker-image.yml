@@ -1,5 +1,4 @@
-name: DBuild Sceptre Docker Image 
-
+name: egorpe/sceptre
 on:
   push:
     branches: [ "master" ]
