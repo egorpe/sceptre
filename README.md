@@ -11,3 +11,4 @@ Builds minimal docker container to run sceptre
 * yamllint
 * cfn-lint
 * aws
+
